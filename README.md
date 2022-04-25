@@ -15,3 +15,4 @@ Future Uses:
 3. Robotics Body posture detector
 4. AI posture trainer for CGI
 
+** TO RUN THIS WE HAVE TO USE JUPYTER NOTEBOOK
