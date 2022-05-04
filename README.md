@@ -16,3 +16,4 @@ Future Uses:
 4. AI posture trainer for CGI
 
 ** TO RUN THIS WE HAVE TO USE JUPYTER NOTEBOOK
+** APPLICATION.py is the working python file.
